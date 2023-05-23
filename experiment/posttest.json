@@ -2,12 +2,29 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1) Relation of length of converging cone of ventri meter, where D is diameter of inlet and d is diameter of throat:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "2(D-d)",
+        "b": "2Dd",
+        "c": "2.7(D-d)",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2) If specific gravity of a liquid is 0.78 and manometer head is 20 cm. Find the difference of pressure head. (Specific gravity of Hg = 13.6)",
+      "answers": {
+        "a": "3.28 m",
+        "b": "4.28 m",
+        "c": "2.82 m",
+        "d": "3.78 m"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +36,44 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "3) Bernoulli equation is summation of pressure head, velocity head and datum head",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4) For Venturi meter, the coefficient of discharge range is: ",
+      "answers": {
+        "a": "Greater than 0.90",
+        "b": "Between 0.8 and 0.9",
+        "c": "Between 0.7 and 0.8",
+        "d": "Less than 0.7"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5) The coefficient of discharge of a venturi meter:",
+      "answers": {
+        "a": "increase with increase in Reynolds number",
+        "b": "decrease with decrease in Reynolds number",
+        "c": "increase upto certain value of Reynold’s number and then becomes constant",
+        "d": "does not vary with Reynolds number"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
