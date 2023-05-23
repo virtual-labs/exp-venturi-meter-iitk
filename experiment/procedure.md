@@ -7,7 +7,8 @@ The following steps are to be followed to calculate the discharge coefficient of
 5. Start the motor keeping the delivery valve close. The water is allowed to flow through the selected pipe by selecting the appropriate ball valve. <br>
 6. By regulating the valve control the flow rate and select the corresponding pressure tapings (i.e. of Venturi meter). Make sure while taking readings, that the manometer is properly primed. Priming is the operation of filling the manometers upper part and the connecting pipes with water by venting the air from the pipes. <br>
 7. Note down the difference of head “h” from the manometer scale, and time required for the rise of 10 cm (i.e. 0.01m) water in the collecting tank by using stop watch.<br>
-<b>Formulae –</b><br><br>
+
+<b>Formulae –</b><br>
 1. Calculate Actual Discharge (Q<sub>act</sub>)<br>
 Note down the time required for the rice of 10 cm (i.e 0.1 m) water in the collecting tank by using stop watch. Calculate discharge using below formulae:<br>
 Discharge: The time taken collect some ‘R’ cm of water in the collecting tank<br>
@@ -28,7 +29,8 @@ a<sub>1</sub> = Area at inlet<br>
 d<sub>2</sub> = Throat diameter in meter<br>
 a<sub> 2</sub>= Area at throat<br>
 3. Calculate the coefficient of discharge of orifice meter:
- C<sub>d</sub>= (Q_<sub>act</sub>/Q<sub>Theoritical</sub>) 
+ C<sub>d</sub>= (Q_<sub>act</sub>/Q<sub>Theoritical</sub>) <br>
+ 
 <b>Observations –</b><br>
 1. Area of the tank (A) = 0.12 m2<br>
 2. Inlet diameter in meters (d_1)= 0.025 m<br>
