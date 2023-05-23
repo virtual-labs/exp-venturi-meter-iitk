@@ -11,17 +11,15 @@ The following steps are to be followed to calculate the discharge coefficient of
 1. Calculate Actual Discharge (Q<sub>act</sub>)<br>
 Note down the time required for the rice of 10 cm (i.e 0.1 m) water in the collecting tank by using stop watch. Calculate discharge using below formulae:<br>
 Discharge: The time taken collect some ‘R’ cm of water in the collecting tank<br>
-<image src="images/imagep1.PNG">
+<image src="images/imagep1.PNG"><br>
 A = area of the collecting tank in m² <br>
 R = rise of water level taken in meters (say 0.1 m or 10 cm) <br>
 t = time taken for rise of water level to height ‘R’ in seconds<br>
-2. Using difference in mercury level “h” calculate the theoretical discharge of venturi meter by using following expression: 
-<image src="images/imagep2.PNG"> 
-Where, 
-H= difference of head in meters  =(h<sub>1</sub>-h<sub>2</sub> )×((s<sub>m</sub>)/s<sub>w</sub> -1)
-
-or H  =(h<sub>1</sub>-h<sub>2</sub> )×12.6 or (h)×12.6
-
+2. Using difference in mercury level “h” calculate the theoretical discharge of venturi meter by using following expression: <br>
+<image src="images/imagep2.PNG"> <br>
+Where, <br>
+H= difference of head in meters  =(h<sub>1</sub>-h<sub>2</sub> )×((s<sub>m</sub>)/s<sub>w</sub> -1)<br>
+or H  =(h<sub>1</sub>-h<sub>2</sub> )×12.6 or (h)×12.6<br>
 s<sub>m</sub>= Specific gravity of mercury =13600 <br>
 s<sub>w</sub> = specific gravity of water = 1000<br>
 g = Acceleration due to gravity <br>
