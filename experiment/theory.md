@@ -1,21 +1,21 @@
 ### <b>Introduction</b><br>
-<image src="images/image1.PNG"><br>
+<c><image src="images/image1.PNG"></c><br>
 A venture meter is a simple device used for measuring the flow rate of liquid flowing through a pipe. A venturi works on a simple principle that by reducing the cross - sectional area of the pipe, a pressure differential is created between the inlet and throat. This pressure differential is measured with the help of differential manometer which enables the determination of the discharge through the pipe. A Venturi meter consists of an inlet section followed by a convergent cone, a cylindrical throat, and gradually divergent cone.<br><br>
 <b>Components of a Venturi meter Test Rig</b><br>
-<image src="images/image2.PNG"><br>
-We will discuss the centrifugal pump parts by starting from suction of water and will end at delivery of water at reservoir. So, parts of centrifugal pumps are as follow: <br>
+<c><image src="images/image2.PNG"></c><br>
+We will discuss the centrifugal pump parts by starting from suction of water and will end at delivery of water at reservoir. So, parts of centrifugal pumps are as follow: <br><br>
 <b>1. Flow Meter</b><br>
-The test bench consist of flow meter with of size 25 mm for the experiments. The meter has the adequate cocks also with them.<br>
+The test bench consist of flow meter with of size 25 mm for the experiments. The meter has the adequate cocks also with them.<br><br>
 <b>2. Strainer</b><br>
-A strainer acts like a filter which stops the solid particles entering the impeller through suction pipe. Strainer is attached at that end of the suction pipe which is dipped into the sump.<br>
+A strainer acts like a filter which stops the solid particles entering the impeller through suction pipe. Strainer is attached at that end of the suction pipe which is dipped into the sump.<br><br>
 <b>3. Piping</b><br>
-Piping in the test bench consist of G.I. pipes of size 25 mm with sufficient lengths on the upstream and downstream, also provided with separate control valves. Individual upstream and downstream pressure feed pipes are provided for the measurement of pressure heads with control valves situated on a common pipe for easy operation. <br>
+Piping in the test bench consist of G.I. pipes of size 25 mm with sufficient lengths on the upstream and downstream, also provided with separate control valves. Individual upstream and downstream pressure feed pipes are provided for the measurement of pressure heads with control valves situated on a common pipe for easy operation. <br><br>
 <b>4. Centrifugal pump</b><br>
-A mono block centrifugal pump is provided with the test bench which delivers the water through the test bench pipeline fittings and venturi meter. The pump is rigidly fixed onto sump tank. <br>
+A mono block centrifugal pump is provided with the test bench which delivers the water through the test bench pipeline fittings and venturi meter. The pump is rigidly fixed onto sump tank. <br><br>
 <b>5. Measuring Tank</b><br>
-Measuring tank with gauge glass and scale arrangement for quick and easy measurement to determine height of water filed in the tank<br>
+Measuring tank with gauge glass and scale arrangement for quick and easy measurement to determine height of water filed in the tank<br><br>
 <b>6. Differential Manometer</b><br>
-A Differential manometer with 1 mm scale grading is provided to measure the differential pressure head produced by the venturi meter.<br>
+A Differential manometer with 1 mm scale grading is provided to measure the differential pressure head produced by the venturi meter.<br><br>
 <b>7. Sump</b><br>
 Sump is a water tank which stores adequate amount of water for circulation through the entire unit for experimentation and is arranged on the floor of the test bench<br><br>
 <b>Working of a Venturi meter </b><br>
