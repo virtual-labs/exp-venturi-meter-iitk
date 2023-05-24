@@ -1,7 +1,7 @@
 ### <b>Introduction</b><br>
 <image src="images/image1.PNG"><br>
-A venture meter is a simple device used for measuring the flow rate of liquid flowing through a pipe. A venturi works on a simple principle that by reducing the cross - sectional area of the pipe, a pressure differential is created between the inlet and throat. This pressure differential is measured with the help of differential manometer which enables the determination of the discharge through the pipe. A Venturi meter consists of an inlet section followed by a convergent cone, a cylindrical throat, and gradually divergent cone.<br>
-<b>Components of a Venturi meter Test Rig<b><br>
+A venture meter is a simple device used for measuring the flow rate of liquid flowing through a pipe. A venturi works on a simple principle that by reducing the cross - sectional area of the pipe, a pressure differential is created between the inlet and throat. This pressure differential is measured with the help of differential manometer which enables the determination of the discharge through the pipe. A Venturi meter consists of an inlet section followed by a convergent cone, a cylindrical throat, and gradually divergent cone.<br><br>
+<b>Components of a Venturi meter Test Rig</b><br>
 <image src="images/image2.PNG"><br>
 We will discuss the centrifugal pump parts by starting from suction of water and will end at delivery of water at reservoir. So, parts of centrifugal pumps are as follow: <br>
 <b>1. Flow Meter</b><br>
@@ -17,7 +17,7 @@ Measuring tank with gauge glass and scale arrangement for quick and easy measure
 <b>6. Differential Manometer</b><br>
 A Differential manometer with 1 mm scale grading is provided to measure the differential pressure head produced by the venturi meter.<br>
 <b>7. Sump</b><br>
-Sump is a water tank which stores adequate amount of water for circulation through the entire unit for experimentation and is arranged on the floor of the test bench<br>
+Sump is a water tank which stores adequate amount of water for circulation through the entire unit for experimentation and is arranged on the floor of the test bench<br><br>
 <b>Working of a Venturi meter </b><br>
 <image src="images/image3.PNG"><br>
 •	A venturi meter works on the principle of Bernoulli’s equation, i.e., the pressure decreases as the velocity increases<br>
