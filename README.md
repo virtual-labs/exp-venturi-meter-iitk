@@ -8,7 +8,7 @@
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+A venture meter is a simple device used for measuring the flow rate of liquid flowing through a pipe. A venturi works on a simple principle that by reducing the cross - sectional area of the pipe, a pressure differential is created between the inlet and throat. This pressure differential is measured with the help of differential manometer which enables the determination of the discharge through the pipe. A Venturi meter consists of an inlet section followed by a convergent cone, a cylindrical throat, and gradually divergent cone.
 
 <b>Name of Developer | <b> Prof. J. Ramkumar,  Dr. Amandeep Singh
 :--|:--|
