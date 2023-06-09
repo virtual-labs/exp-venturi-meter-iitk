@@ -28,9 +28,8 @@ d<sub>1</sub> = Inlet diameter in meters. <br>
 a<sub>1</sub> = Area at inlet<br>
 d<sub>2</sub> = Throat diameter in meter<br>
 a<sub> 2</sub>= Area at throat<br>
-3. Calculate the coefficient of discharge of orifice meter:
- C<sub>d</sub>= (Q_<sub>act</sub>/Q<sub>Theoritical</sub>) <br>
- 
+3. Calculate the coefficient of discharge of orifice meter:<br>
+C<sub>d</sub>= (Q<sub>act</sub>/Q<sub>Theoritical</sub>) <br>
 <b>Observations –</b><br>
 1. Area of the tank (A) = 0.12 m2<br>
 2. Inlet diameter in meters (d_1)= 0.025 m<br>
