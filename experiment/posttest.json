@@ -83,6 +83,91 @@
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "6) The divergent portion of a Venturi meter is made longer than convergent portion to prevent:",
+      "answers": {
+        "a": "Frictional losses",
+        "b": "Flow separation",
+        "c": "Velocity increase",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7) The pressure is maximum at ____________ in a venturi meter. ",
+      "answers": {
+        "a": "At inlet",
+        "b": "Midpoint of convergent part",
+        "c": "Midpoint of throat",
+        "d": "Midpoint of diverging part"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8) Angle of divergent part of Venturi meter is __________ than that of convergent part.",
+      "answers": {
+        "a": "less",
+        "b": "greater",
+        "c": "equal",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9) Discharge co-efficient (C<sub>d</sub>)  is defined as:",
+      "answers": {
+        "a": "Q<sub>act</sub>- Q<sub>theroitical</sub>",
+        "b": "Q<sub>act</sub>+Q<sub>theroitical</sub>",
+        "c": "Q<sub>act</sub>/Q<sub>theroitical</sub>",
+        "d": "Q<sub>act</sub>*Q<sub>theroitical</sub>"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10) The velocity of liquid at throat is ________ than that of inlet in venturi meter.",
+      "answers": {
+        "a": "Less",
+        "b": "Equal",
+        "c": "Greater",
+        "d": "None of the above "
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
     }
   ]
 }
