@@ -1,4 +1,4 @@
-### <b>Procedure </b><br><br>
+### <b><u>Procedure </u></b><br><br>
 The following steps are to be followed to calculate the discharge coefficient of Venturi meter:<br>
 1. Check whether all the joints and the sump are not leaking <br>
 2. Close all the cocks, pressure feed pipes and manometer to prevent damage and overloading of the manometer. Check the gauge glass and meter scale assembly of the measuring tank and see that it is fixed water height and vertically.<br> 
@@ -8,7 +8,7 @@ The following steps are to be followed to calculate the discharge coefficient of
 6. By regulating the valve control the flow rate and select the corresponding pressure tapings (i.e. of Venturi meter). Make sure while taking readings, that the manometer is properly primed. Priming is the operation of filling the manometers upper part and the connecting pipes with water by venting the air from the pipes. <br>
 7. Note down the difference of head “h” from the manometer scale, and time required for the rise of 10 cm (i.e. 0.01m) water in the collecting tank by using stop watch.<br>
 
-<b>Formulae –</b><br>
+<b><u>Formulae –</u></b><br>
 1. Calculate Actual Discharge (Q<sub>act</sub>)<br>
 Note down the time required for the rice of 10 cm (i.e 0.1 m) water in the collecting tank by using stop watch. Calculate discharge using below formulae:<br>
 Discharge: The time taken collect some ‘R’ cm of water in the collecting tank<br>
@@ -30,13 +30,13 @@ d<sub>2</sub> = Throat diameter in meter<br>
 a<sub> 2</sub>= Area at throat<br>
 3. Calculate the coefficient of discharge of orifice meter:<br>
 C<sub>d</sub>= (Q<sub>act</sub>/Q<sub>Theoritical</sub>) <br>
-<b>Observations –</b><br>
+
+<b><u>Observations –</u></b><br>
 1. Area of the tank (A) = 0.12 m<sub>2</sub><br>
 2. Inlet diameter in meters (d_1)= 0.025 m<br>
 3. Throat diameter in meter (d_2) = 0.0125 m<br>
 <image src="images/imagep4.PNG"><br>
-Explanation of Venturi meter Experiment in a lab. See video for reference<br>
-https://www.youtube.com/watch?v=eDe8nWlG9Ps
+
 
 
 
