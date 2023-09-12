@@ -25,6 +25,6 @@ Sump is a water tank which stores adequate amount of water for circulation throu
 •	As the cross-section from the inlet pipe to the throat decreases, the velocity of the fluid increases, and hence the pressure decreases according to Bernoulli’ equation<br>
 •	Due to the decrease in pressure, a pressure difference is created between the inlet pipe and the venturi meter’s throat.<br>
 •	This pressure difference can be measured by applying a differential manometer between the inlet section and throat section or using two gauges on the inlet section and throat.<br>
-•	The pressure difference through the pipe is calculated after obtaining the flow rate.<br>
-Bernoulli’s Equation for horizontally placed venturi and neglecting frictional losses:<br>
+•	The pressure difference through the pipe is calculated after obtaining the flow rate.<br><br>
+<b>Bernoulli’s Equation for horizontally placed venturi and neglecting frictional losses:</b><br>
 <image src="images/image4.PNG">
