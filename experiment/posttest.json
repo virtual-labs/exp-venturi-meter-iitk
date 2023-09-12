@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1) Relation of length of converging cone of ventri meter, where D is diameter of inlet and d is diameter of throat:",
+      "question": "1. Relation of length of converging cone of ventri meter, where D is diameter of inlet and d is diameter of throat:",
       "answers": {
         "a": "2(D-d)",
         "b": "2Dd",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2) If specific gravity of a liquid is 0.78 and manometer head is 20 cm. Find the difference of pressure head. (Specific gravity of Hg = 13.6)",
+      "question": "2. If specific gravity of a liquid is 0.78 and manometer head is 20 cm. Find the difference of pressure head. (Specific gravity of Hg = 13.6)",
       "answers": {
         "a": "3.28 m",
         "b": "4.28 m",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "3) Bernoulli equation is summation of pressure head, velocity head and datum head",
+      "question": "3. Bernoulli equation is summation of pressure head, velocity head and datum head",
       "answers": {
         "a": "True",
         "b": "False"
@@ -51,7 +51,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "4) For Venturi meter, the coefficient of discharge range is: ",
+      "question": "4. For Venturi meter, the coefficient of discharge range is: ",
       "answers": {
         "a": "Greater than 0.90",
         "b": "Between 0.8 and 0.9",
@@ -68,7 +68,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "5) The coefficient of discharge of a venturi meter:",
+      "question": "5. The coefficient of discharge of a venturi meter:",
       "answers": {
         "a": "increase with increase in Reynolds number",
         "b": "decrease with decrease in Reynolds number",
@@ -85,7 +85,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "6) The divergent portion of a Venturi meter is made longer than convergent portion to prevent:",
+      "question": "6. The divergent portion of a Venturi meter is made longer than convergent portion to prevent:",
       "answers": {
         "a": "Frictional losses",
         "b": "Flow separation",
@@ -102,7 +102,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "7) The pressure is maximum at ____________ in a venturi meter. ",
+      "question": "7. The pressure is maximum at ____________ in a venturi meter. ",
       "answers": {
         "a": "At inlet",
         "b": "Midpoint of convergent part",
@@ -119,7 +119,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "8) Angle of divergent part of Venturi meter is __________ than that of convergent part.",
+      "question": "8. Angle of divergent part of Venturi meter is __________ than that of convergent part.",
       "answers": {
         "a": "less",
         "b": "greater",
@@ -136,7 +136,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "9) Discharge co-efficient (C<sub>d</sub>)  is defined as:",
+      "question": "9. Discharge co-efficient (C<sub>d</sub>)  is defined as:",
       "answers": {
         "a": "Q<sub>act</sub>- Q<sub>theroitical</sub>",
         "b": "Q<sub>act</sub>+Q<sub>theroitical</sub>",
@@ -153,7 +153,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "10) The velocity of liquid at throat is ________ than that of inlet in venturi meter.",
+      "question": "10. The velocity of liquid at throat is ________ than that of inlet in venturi meter.",
       "answers": {
         "a": "Less",
         "b": "Equal",
