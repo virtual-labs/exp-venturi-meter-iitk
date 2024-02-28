@@ -1,0 +1,173 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Relation of length of converging cone of ventri meter, where D is diameter of inlet and d is diameter of throat:",
+      "answers": {
+        "a": "2(D-d)",
+        "b": "2Dd",
+        "c": "2.7(D-d)",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. If specific gravity of a liquid is 0.78 and manometer head is 20 cm. Find the difference of pressure head. (Specific gravity of Hg = 13.6)",
+      "answers": {
+        "a": "3.28 m",
+        "b": "4.28 m",
+        "c": "2.82 m",
+        "d": "3.78 m"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Bernoulli equation is summation of pressure head, velocity head and datum head",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. For Venturi meter, the coefficient of discharge range is: ",
+      "answers": {
+        "a": "Greater than 0.90",
+        "b": "Between 0.8 and 0.9",
+        "c": "Between 0.7 and 0.8",
+        "d": "Less than 0.7"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. The coefficient of discharge of a venturi meter:",
+      "answers": {
+        "a": "increase with increase in Reynolds number",
+        "b": "decrease with decrease in Reynolds number",
+        "c": "increase upto certain value of Reynold’s number and then becomes constant",
+        "d": "does not vary with Reynolds number"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. The divergent portion of a Venturi meter is made longer than convergent portion to prevent:",
+      "answers": {
+        "a": "Frictional losses",
+        "b": "Flow separation",
+        "c": "Velocity increase",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. The pressure is maximum at ____________ in a venturi meter. ",
+      "answers": {
+        "a": "At inlet",
+        "b": "Midpoint of convergent part",
+        "c": "Midpoint of throat",
+        "d": "Midpoint of diverging part"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. Angle of divergent part of Venturi meter is __________ than that of convergent part.",
+      "answers": {
+        "a": "less",
+        "b": "greater",
+        "c": "equal",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. Discharge co-efficient (C<sub>d</sub>)  is defined as:",
+      "answers": {
+        "a": "Q<sub>act</sub>- Q<sub>theroitical</sub>",
+        "b": "Q<sub>act</sub>+Q<sub>theroitical</sub>",
+        "c": "Q<sub>act</sub>/Q<sub>theroitical</sub>",
+        "d": "Q<sub>act</sub>*Q<sub>theroitical</sub>"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10. The velocity of liquid at throat is ________ than that of inlet in venturi meter.",
+      "answers": {
+        "a": "Less",
+        "b": "Equal",
+        "c": "Greater",
+        "d": "None of the above "
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}

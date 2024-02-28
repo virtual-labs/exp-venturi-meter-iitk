@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Venturi meter is used to measure:",
+      "answers": {
+        "a": "Pressure difference of liquid flowing between two locations in a pipe line",
+        "b": "Discharge of liquid flowing in a pipeanswer2",
+        "c": "Measure the velocity of a flowing liquid",
+        "d": "Measure the pressure of a flowing liquid"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Minimum headless among flow meters is that of:",
+      "answers": {
+        "a": "Nozzle flow meter",
+        "b": "Orifice meter",
+        "c": "Manometer",
+        "d": "Venturi meter"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. The inlet length of venturi meter is:",
+      "answers": {
+        "a": "Equal to the outlet length",
+        "b": "More than the outlet length",
+        "c": "Less than the outlet length",
+        "d": "Has no relation with the outlet length"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. A venturi works at:",
+      "answers": {
+        "a": "Atmospheric pressure",
+        "b": "Absolute pressure",
+        "c": "Gauge pressure",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. In divergent part of the venturi, the velocity ____________________:",
+      "answers": {
+        "a": "remains constant",
+        "b": "decreases",
+        "c": "increases",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. Advantage of Venturi meter over Orifice meter is:",
+      "answers": {
+        "a": "Cost effective",
+        "b": "Easy installation",
+        "c": "Low maintenance",
+        "d": "Less energy losses"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. Discharge of Venturi is _____________ than that of Orifice meter",
+      "answers": {
+        "a": "Equal",
+        "b": "Higher",
+        "c": "Lower",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. Bernoulli equation is based on:",
+      "answers": {
+        "a": "Conservation of mass",
+        "b": "Conservation of energy",
+        "c": "Both (a) and (b)",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. Liquid flow rate in large sized pipes can be measured using:",
+      "answers": {
+        "a": "Speedometer",
+        "b": "Lactometer",
+        "c": "Venturi meter",
+        "d": "Elbow meter"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10. Assumptions for Bernoulli’s equation:",
+      "answers": {
+        "a": "Incompressible",
+        "b": "Non-viscous",
+        "c": "Steady-State",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}

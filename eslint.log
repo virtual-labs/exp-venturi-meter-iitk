@@ -1,0 +1,26 @@
+
+/home/runner/work/exp-venturi-meter-iitk/exp-venturi-meter-iitk/experiment/simulation/js/calculation.js
+   27:10  warning  'calculate' is defined but never used        no-unused-vars
+   47:10  warning  'checkYourResult' is defined but never used  no-unused-vars
+  198:13  warning  'confetti' is not defined                    no-undef
+  208:10  warning  'saveData' is defined but never used         no-unused-vars
+  237:10  warning  'exportToExcel' is defined but never used    no-unused-vars
+  238:14  warning  'XLSX' is not defined                        no-undef
+  255:28  warning  'XLSX' is not defined                        no-undef
+  256:5   warning  'XLSX' is not defined                        no-undef
+  261:5   warning  'XLSX' is not defined                        no-undef
+
+/home/runner/work/exp-venturi-meter-iitk/exp-venturi-meter-iitk/experiment/simulation/js/main.js
+    5:5   warning  'svg' is assigned a value but never used                  no-unused-vars
+   37:5   warning  'svgContainer1' is assigned a value but never used        no-unused-vars
+   40:5   warning  'animationTimeouts' is assigned a value but never used    no-unused-vars
+   60:10  warning  'power' is defined but never used                         no-unused-vars
+  162:5   warning  'isWaterFlow1Running' is assigned a value but never used  no-unused-vars
+  163:5   warning  'waterFlow1Timeout' is defined but never used             no-unused-vars
+  168:5   warning  'stopWaterFlow5' is assigned a value but never used       no-unused-vars
+  176:5   warning  'stopDisplayArrow' is assigned a value but never used     no-unused-vars
+  386:5   warning  'isWaterFlow6Running' is assigned a value but never used  no-unused-vars
+  722:10  warning  'purzeAction' is defined but never used                   no-unused-vars
+
+✖ 19 problems (0 errors, 19 warnings)
+
