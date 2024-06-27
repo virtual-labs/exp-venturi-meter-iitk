@@ -10,10 +10,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is 2.7(D-d). The length of the converging section of a Venturi meter is typically designed to be 2.7 times the difference between the inlet and throat diameters, ensuring a smooth acceleration of the fluid and minimizing energy losses.",
+        "b": "The correct answer is 2.7(D-d). The length of the converging section of a Venturi meter is typically designed to be 2.7 times the difference between the inlet and throat diameters, ensuring a smooth acceleration of the fluid and minimizing energy losses.",
+        "c": "The correct answer is 2.7(D-d). The length of the converging section of a Venturi meter is typically designed to be 2.7 times the difference between the inlet and throat diameters, ensuring a smooth acceleration of the fluid and minimizing energy losses.",
+        "d": "The correct answer is 2.7(D-d). The length of the converging section of a Venturi meter is typically designed to be 2.7 times the difference between the inlet and throat diameters, ensuring a smooth acceleration of the fluid and minimizing energy losses."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "3.78 m"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is 3.28 m. The pressure difference is calculated using the formula: Δh=h×(SGliquid/SGHg)<br>Δh=20×(0.78/13.6)≈1.147 m of Hg<br>Converting this to meters of water: 1.147×13.6≈3.28 m",
+        "b": "The correct answer is 3.28 m. The pressure difference is calculated using the formula: Δh=h×(SGliquid/SGHg)<br>Δh=20×(0.78/13.6)≈1.147 m of Hg<br>Converting this to meters of water: 1.147×13.6≈3.28 m",
+        "c": "The correct answer is 3.28 m. The pressure difference is calculated using the formula: Δh=h×(SGliquid/SGHg)<br>Δh=20×(0.78/13.6)≈1.147 m of Hg<br>Converting this to meters of water: 1.147×13.6≈3.28 m",
+        "d": "The correct answer is 3.28 m. The pressure difference is calculated using the formula: Δh=h×(SGliquid/SGHg)<br>Δh=20×(0.78/13.6)≈1.147 m of Hg<br>Converting this to meters of water: 1.147×13.6≈3.28 m"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -42,10 +42,10 @@
         "b": "False"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is true. Bernoulli's equation states that the total mechanical energy (sum of pressure head, velocity head, and datum head) in a flowing fluid remains constant along a streamline in the absence of friction losses.",
+        "b": "The correct answer is true. Bernoulli's equation states that the total mechanical energy (sum of pressure head, velocity head, and datum head) in a flowing fluid remains constant along a streamline in the absence of friction losses.",
+        "c": "The correct answer is true. Bernoulli's equation states that the total mechanical energy (sum of pressure head, velocity head, and datum head) in a flowing fluid remains constant along a streamline in the absence of friction losses.",
+        "d": "The correct answer is true. Bernoulli's equation states that the total mechanical energy (sum of pressure head, velocity head, and datum head) in a flowing fluid remains constant along a streamline in the absence of friction losses."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -59,10 +59,10 @@
         "d": "Less than 0.7"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is greater than 0.90. Venturi meters have a high coefficient of discharge, typically greater than 0.90, due to their efficient design which minimizes energy losses and allows for accurate flow measurements.",
+        "b": "The correct answer is greater than 0.90. Venturi meters have a high coefficient of discharge, typically greater than 0.90, due to their efficient design which minimizes energy losses and allows for accurate flow measurements.",
+        "c": "The correct answer is greater than 0.90. Venturi meters have a high coefficient of discharge, typically greater than 0.90, due to their efficient design which minimizes energy losses and allows for accurate flow measurements.",
+        "d": "The correct answer is greater than 0.90. Venturi meters have a high coefficient of discharge, typically greater than 0.90, due to their efficient design which minimizes energy losses and allows for accurate flow measurements."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -76,10 +76,10 @@
         "d": "does not vary with Reynolds number"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is increase up to a certain value of Reynold’s number and then becomes constant. The coefficient of discharge for a Venturi meter generally increases with the Reynolds number due to reduced viscous effects, and then stabilizes once the flow becomes fully turbulent.",
+        "b": "The correct answer is increase up to a certain value of Reynold’s number and then becomes constant. The coefficient of discharge for a Venturi meter generally increases with the Reynolds number due to reduced viscous effects, and then stabilizes once the flow becomes fully turbulent.",
+        "c": "The correct answer is increase up to a certain value of Reynold’s number and then becomes constant. The coefficient of discharge for a Venturi meter generally increases with the Reynolds number due to reduced viscous effects, and then stabilizes once the flow becomes fully turbulent.",
+        "d": "The correct answer is increase up to a certain value of Reynold’s number and then becomes constant. The coefficient of discharge for a Venturi meter generally increases with the Reynolds number due to reduced viscous effects, and then stabilizes once the flow becomes fully turbulent."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -93,10 +93,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is flow separation. The divergent section of the Venturi meter is designed to be longer to ensure a gradual decrease in velocity and prevent flow separation, which can cause energy losses and inaccurate measurements.",
+        "b": "The correct answer is flow separation. The divergent section of the Venturi meter is designed to be longer to ensure a gradual decrease in velocity and prevent flow separation, which can cause energy losses and inaccurate measurements.",
+        "c": "The correct answer is flow separation. The divergent section of the Venturi meter is designed to be longer to ensure a gradual decrease in velocity and prevent flow separation, which can cause energy losses and inaccurate measurements.",
+        "d": "The correct answer is flow separation. The divergent section of the Venturi meter is designed to be longer to ensure a gradual decrease in velocity and prevent flow separation, which can cause energy losses and inaccurate measurements."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -110,10 +110,10 @@
         "d": "Midpoint of diverging part"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is the midpoint of the convergent part. In a Venturi meter, the pressure is highest at the inlet and just before the throat, then drops at the throat due to the increased velocity and increases again in the diverging section.",
+        "b": "The correct answer is the midpoint of the convergent part. In a Venturi meter, the pressure is highest at the inlet and just before the throat, then drops at the throat due to the increased velocity and increases again in the diverging section.",
+        "c": "The correct answer is the midpoint of the convergent part. In a Venturi meter, the pressure is highest at the inlet and just before the throat, then drops at the throat due to the increased velocity and increases again in the diverging section.",
+        "d": "The correct answer is the midpoint of the convergent part. In a Venturi meter, the pressure is highest at the inlet and just before the throat, then drops at the throat due to the increased velocity and increases again in the diverging section."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -127,10 +127,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is less. The angle of the divergent part is typically less than the convergent part to allow a gradual decrease in velocity and prevent flow separation and energy losses.",
+        "b": "The correct answer is less. The angle of the divergent part is typically less than the convergent part to allow a gradual decrease in velocity and prevent flow separation and energy losses.",
+        "c": "The correct answer is less. The angle of the divergent part is typically less than the convergent part to allow a gradual decrease in velocity and prevent flow separation and energy losses.",
+        "d": "The correct answer is less. The angle of the divergent part is typically less than the convergent part to allow a gradual decrease in velocity and prevent flow separation and energy losses."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -144,10 +144,10 @@
         "d": "Q<sub>act</sub>*Q<sub>theroitical</sub>"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is:- Q_act/Q_theroitical. The discharge coefficient is the ratio of the actual discharge to the theoretical discharge, indicating the efficiency of the flow meter in measuring the flow rate.",
+        "b": "The correct answer is:- Q_act/Q_theroitical. The discharge coefficient is the ratio of the actual discharge to the theoretical discharge, indicating the efficiency of the flow meter in measuring the flow rate.",
+        "c": "The correct answer is:- Q_act/Q_theroitical. The discharge coefficient is the ratio of the actual discharge to the theoretical discharge, indicating the efficiency of the flow meter in measuring the flow rate.",
+        "d": "The correct answer is:- Q_act/Q_theroitical. The discharge coefficient is the ratio of the actual discharge to the theoretical discharge, indicating the efficiency of the flow meter in measuring the flow rate."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -161,10 +161,10 @@
         "d": "None of the above "
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is greater. The velocity of the liquid at the throat of a Venturi meter is higher than at the inlet because of the reduced cross-sectional area, according to the principle of continuity and Bernoulli's equation.",
+        "b": "The correct answer is greater. The velocity of the liquid at the throat of a Venturi meter is higher than at the inlet because of the reduced cross-sectional area, according to the principle of continuity and Bernoulli's equation.",
+        "c": "The correct answer is greater. The velocity of the liquid at the throat of a Venturi meter is higher than at the inlet because of the reduced cross-sectional area, according to the principle of continuity and Bernoulli's equation.",
+        "d": "The correct answer is greater. The velocity of the liquid at the throat of a Venturi meter is higher than at the inlet because of the reduced cross-sectional area, according to the principle of continuity and Bernoulli's equation."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"

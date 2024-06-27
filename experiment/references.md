@@ -1,1 +1,5 @@
-### Link your references in here
+### Books link<br>
+### <a href="https://assets.cambridge.org/97811070/45866/frontmatter/9781107045866_frontmatter.pdf">  (a)Baker, R.C., 2016. Flow measurement handbook: industrial designs, operating principles, performance, and applications. Cambridge University Press.</a><br>
+### Youtube Link<br>
+<b> Explanation of Venturi meter Experiment in a lab. See video for reference<b><br>
+### <a href="https://www.youtube.com/watch?v=eDe8nWlG9Ps"> (a) Venturi meter performance</a>

@@ -10,10 +10,10 @@
         "d": "Measure the pressure of a flowing liquid"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is discharge of liquid flowing in a pipe. A Venturi meter measures the flow rate or discharge of a fluid in a pipe by utilizing the Bernoulli principle. The device constricts the flow of the fluid, causing a pressure difference that is used to calculate the discharge rate.",
+        "b": "The correct answer is discharge of liquid flowing in a pipe. A Venturi meter measures the flow rate or discharge of a fluid in a pipe by utilizing the Bernoulli principle. The device constricts the flow of the fluid, causing a pressure difference that is used to calculate the discharge rate.",
+        "c": "The correct answer is discharge of liquid flowing in a pipe. A Venturi meter measures the flow rate or discharge of a fluid in a pipe by utilizing the Bernoulli principle. The device constricts the flow of the fluid, causing a pressure difference that is used to calculate the discharge rate.",
+        "d": "The correct answer is discharge of liquid flowing in a pipe. A Venturi meter measures the flow rate or discharge of a fluid in a pipe by utilizing the Bernoulli principle. The device constricts the flow of the fluid, causing a pressure difference that is used to calculate the discharge rate."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "Venturi meter"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is Venturi meter. Among various flow meters, the Venturi meter has the lowest head loss because it provides a gradual change in cross-sectional area, reducing energy losses due to friction and turbulence.",
+        "b": "The correct answer is Venturi meter. Among various flow meters, the Venturi meter has the lowest head loss because it provides a gradual change in cross-sectional area, reducing energy losses due to friction and turbulence.",
+        "c": "The correct answer is Venturi meter. Among various flow meters, the Venturi meter has the lowest head loss because it provides a gradual change in cross-sectional area, reducing energy losses due to friction and turbulence.",
+        "d": "The correct answer is Venturi meter. Among various flow meters, the Venturi meter has the lowest head loss because it provides a gradual change in cross-sectional area, reducing energy losses due to friction and turbulence."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "Has no relation with the outlet length"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is less than the outlet length. In a Venturi meter, the inlet section (converging cone) is shorter than the outlet section (diverging cone) to ensure smooth acceleration and deceleration of the fluid, minimizing energy losses and avoiding flow separation.",
+        "b": "The correct answer is less than the outlet length. In a Venturi meter, the inlet section (converging cone) is shorter than the outlet section (diverging cone) to ensure smooth acceleration and deceleration of the fluid, minimizing energy losses and avoiding flow separation.",
+        "c": "The correct answer is less than the outlet length. In a Venturi meter, the inlet section (converging cone) is shorter than the outlet section (diverging cone) to ensure smooth acceleration and deceleration of the fluid, minimizing energy losses and avoiding flow separation.",
+        "d": "The correct answer is less than the outlet length. In a Venturi meter, the inlet section (converging cone) is shorter than the outlet section (diverging cone) to ensure smooth acceleration and deceleration of the fluid, minimizing energy losses and avoiding flow separation."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is absolute pressure. Venturi meters measure the absolute pressure difference between the inlet and the throat, which is necessary to calculate the flow rate accurately.",
+        "b": "The correct answer is absolute pressure. Venturi meters measure the absolute pressure difference between the inlet and the throat, which is necessary to calculate the flow rate accurately.",
+        "c": "The correct answer is absolute pressure. Venturi meters measure the absolute pressure difference between the inlet and the throat, which is necessary to calculate the flow rate accurately.",
+        "d": "The correct answer is absolute pressure. Venturi meters measure the absolute pressure difference between the inlet and the throat, which is necessary to calculate the flow rate accurately."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -78,10 +78,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is decreases. In the divergent section of the Venturi meter, the cross-sectional area increases, causing the velocity of the fluid to decrease and the pressure to increase, according to Bernoulli's principle.",
+        "b": "The correct answer is decreases. In the divergent section of the Venturi meter, the cross-sectional area increases, causing the velocity of the fluid to decrease and the pressure to increase, according to Bernoulli's principle.",
+        "c": "The correct answer is decreases. In the divergent section of the Venturi meter, the cross-sectional area increases, causing the velocity of the fluid to decrease and the pressure to increase, according to Bernoulli's principle.",
+        "d": "The correct answer is decreases. In the divergent section of the Venturi meter, the cross-sectional area increases, causing the velocity of the fluid to decrease and the pressure to increase, according to Bernoulli's principle."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -95,10 +95,10 @@
         "d": "Less energy losses"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is less energy losses. Venturi meters have less energy loss compared to orifice meters due to their smooth and gradual transition in cross-sectional area, which reduces turbulence and frictional losses.",
+        "b": "The correct answer is less energy losses. Venturi meters have less energy loss compared to orifice meters due to their smooth and gradual transition in cross-sectional area, which reduces turbulence and frictional losses.",
+        "c": "The correct answer is less energy losses. Venturi meters have less energy loss compared to orifice meters due to their smooth and gradual transition in cross-sectional area, which reduces turbulence and frictional losses.",
+        "d": "The correct answer is less energy losses. Venturi meters have less energy loss compared to orifice meters due to their smooth and gradual transition in cross-sectional area, which reduces turbulence and frictional losses."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -112,10 +112,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is higher. Venturi meters generally have a higher discharge coefficient compared to orifice meters, meaning they can handle larger flow rates with greater accuracy and less energy loss.",
+        "b": "The correct answer is higher. Venturi meters generally have a higher discharge coefficient compared to orifice meters, meaning they can handle larger flow rates with greater accuracy and less energy loss.",
+        "c": "The correct answer is higher. Venturi meters generally have a higher discharge coefficient compared to orifice meters, meaning they can handle larger flow rates with greater accuracy and less energy loss.",
+        "d": "The correct answer is higher. Venturi meters generally have a higher discharge coefficient compared to orifice meters, meaning they can handle larger flow rates with greater accuracy and less energy loss."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -129,10 +129,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is conservation of energy. Bernoulli's equation describes the conservation of mechanical energy (kinetic, potential, and pressure energy) in a flowing fluid and is fundamental in analyzing fluid dynamics. ",
+        "b": "The correct answer is conservation of energy. Bernoulli's equation describes the conservation of mechanical energy (kinetic, potential, and pressure energy) in a flowing fluid and is fundamental in analyzing fluid dynamics. ",
+        "c": "The correct answer is conservation of energy. Bernoulli's equation describes the conservation of mechanical energy (kinetic, potential, and pressure energy) in a flowing fluid and is fundamental in analyzing fluid dynamics. ",
+        "d": "The correct answer is conservation of energy. Bernoulli's equation describes the conservation of mechanical energy (kinetic, potential, and pressure energy) in a flowing fluid and is fundamental in analyzing fluid dynamics. "
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -146,10 +146,10 @@
         "d": "Elbow meter"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is Venturi meter. Venturi meters are well-suited for measuring the flow rate in large-diameter pipes due to their high accuracy and low energy loss characteristics.",
+        "b": "The correct answer is Venturi meter. Venturi meters are well-suited for measuring the flow rate in large-diameter pipes due to their high accuracy and low energy loss characteristics.",
+        "c": "The correct answer is Venturi meter. Venturi meters are well-suited for measuring the flow rate in large-diameter pipes due to their high accuracy and low energy loss characteristics.",
+        "d": "The correct answer is Venturi meter. Venturi meters are well-suited for measuring the flow rate in large-diameter pipes due to their high accuracy and low energy loss characteristics."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -163,10 +163,10 @@
         "d": "All of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is all of the above. Bernoulli's equation assumes that the fluid is incompressible, non-viscous (ideal fluid), and the flow is steady-state (constant over time).",
+        "b": "The correct answer is all of the above. Bernoulli's equation assumes that the fluid is incompressible, non-viscous (ideal fluid), and the flow is steady-state (constant over time).",
+        "c": "The correct answer is all of the above. Bernoulli's equation assumes that the fluid is incompressible, non-viscous (ideal fluid), and the flow is steady-state (constant over time).",
+        "d": "The correct answer is all of the above. Bernoulli's equation assumes that the fluid is incompressible, non-viscous (ideal fluid), and the flow is steady-state (constant over time)."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
