@@ -3,5 +3,5 @@
 ### <a href="https://link.springer.com/chapter/10.1007/978-3-540-89749-1_52"> (b) Xu, J., Wu, Y., Zhang, Y. and Zhang, J., 2008. Fluid machinery and fluid mechanics.</a><br>
 
 ### Youtube Link<br>
-### <b> Explanation of Venturi meter Experiment in a lab. See video for reference<b><br>
+<b> Explanation of Venturi meter Experiment in a lab. See video for reference<b><br>
 ### <a href="https://www.youtube.com/watch?v=eDe8nWlG9Ps"> (a) Venturi meter performance</a>
