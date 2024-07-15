@@ -58,7 +58,7 @@
         "a": "Atmospheric pressure",
         "b": "Absolute pressure",
         "c": "Gauge pressure",
-        "d": "None of the above"
+        "d": "None of these"
       },
       "explanations": {
         "a": "The correct answer is absolute pressure. Venturi meters measure the absolute pressure difference between the inlet and the throat, which is necessary to calculate the flow rate accurately.",
@@ -75,7 +75,7 @@
         "a": "remains constant",
         "b": "decreases",
         "c": "increases",
-        "d": "None of the above"
+        "d": "None of these"
       },
       "explanations": {
         "a": "The correct answer is decreases. In the divergent section of the Venturi meter, the cross-sectional area increases, causing the velocity of the fluid to decrease and the pressure to increase, according to Bernoulli's principle.",
@@ -109,7 +109,7 @@
         "a": "Equal",
         "b": "Higher",
         "c": "Lower",
-        "d": "None of the above"
+        "d": "None of these"
       },
       "explanations": {
         "a": "The correct answer is higher. Venturi meters generally have a higher discharge coefficient compared to orifice meters, meaning they can handle larger flow rates with greater accuracy and less energy loss.",
@@ -126,7 +126,7 @@
         "a": "Conservation of mass",
         "b": "Conservation of energy",
         "c": "Both (a) and (b)",
-        "d": "None of the above"
+        "d": "None of these"
       },
       "explanations": {
         "a": "The correct answer is conservation of energy. Bernoulli's equation describes the conservation of mechanical energy (kinetic, potential, and pressure energy) in a flowing fluid and is fundamental in analyzing fluid dynamics. ",
@@ -160,13 +160,13 @@
         "a": "Incompressible",
         "b": "Non-viscous",
         "c": "Steady-State",
-        "d": "All of the above"
+        "d": "All of these"
       },
       "explanations": {
-        "a": "The correct answer is all of the above. Bernoulli's equation assumes that the fluid is incompressible, non-viscous (ideal fluid), and the flow is steady-state (constant over time).",
-        "b": "The correct answer is all of the above. Bernoulli's equation assumes that the fluid is incompressible, non-viscous (ideal fluid), and the flow is steady-state (constant over time).",
-        "c": "The correct answer is all of the above. Bernoulli's equation assumes that the fluid is incompressible, non-viscous (ideal fluid), and the flow is steady-state (constant over time).",
-        "d": "The correct answer is all of the above. Bernoulli's equation assumes that the fluid is incompressible, non-viscous (ideal fluid), and the flow is steady-state (constant over time)."
+        "a": "The correct answer is all of these. Bernoulli's equation assumes that the fluid is incompressible, non-viscous (ideal fluid), and the flow is steady-state (constant over time).",
+        "b": "The correct answer is all of these. Bernoulli's equation assumes that the fluid is incompressible, non-viscous (ideal fluid), and the flow is steady-state (constant over time).",
+        "c": "The correct answer is all of these. Bernoulli's equation assumes that the fluid is incompressible, non-viscous (ideal fluid), and the flow is steady-state (constant over time).",
+        "d": "The correct answer is all of these. Bernoulli's equation assumes that the fluid is incompressible, non-viscous (ideal fluid), and the flow is steady-state (constant over time)."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
