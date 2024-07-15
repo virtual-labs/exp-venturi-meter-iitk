@@ -7,7 +7,7 @@
         "a": "2(D-d)",
         "b": "2Dd",
         "c": "2.7(D-d)",
-        "d": "None of the above"
+        "d": "None of these"
       },
       "explanations": {
         "a": "The correct answer is 2.7(D-d). The length of the converging section of a Venturi meter is typically designed to be 2.7 times the difference between the inlet and throat diameters, ensuring a smooth acceleration of the fluid and minimizing energy losses.",
@@ -90,7 +90,7 @@
         "a": "Frictional losses",
         "b": "Flow separation",
         "c": "Velocity increase",
-        "d": "None of the above"
+        "d": "None of these"
       },
       "explanations": {
         "a": "The correct answer is flow separation. The divergent section of the Venturi meter is designed to be longer to ensure a gradual decrease in velocity and prevent flow separation, which can cause energy losses and inaccurate measurements.",
@@ -124,7 +124,7 @@
         "a": "less",
         "b": "greater",
         "c": "equal",
-        "d": "None of the above"
+        "d": "None of these"
       },
       "explanations": {
         "a": "The correct answer is less. The angle of the divergent part is typically less than the convergent part to allow a gradual decrease in velocity and prevent flow separation and energy losses.",
@@ -158,7 +158,7 @@
         "a": "Less",
         "b": "Equal",
         "c": "Greater",
-        "d": "None of the above "
+        "d": "None of these "
       },
       "explanations": {
         "a": "The correct answer is greater. The velocity of the liquid at the throat of a Venturi meter is higher than at the inlet because of the reduced cross-sectional area, according to the principle of continuity and Bernoulli's equation.",
