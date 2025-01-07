@@ -58,7 +58,7 @@
         "a": "Atmospheric pressure",
         "b": "Absolute pressure",
         "c": "Gauge pressure",
-        "d": "None of these"
+        "d": "Vacuum pressure"
       },
       "explanations": {
         "a": "The correct answer is absolute pressure. Venturi meters measure the absolute pressure difference between the inlet and the throat, which is necessary to calculate the flow rate accurately.",
@@ -75,7 +75,7 @@
         "a": "remains constant",
         "b": "decreases",
         "c": "increases",
-        "d": "None of these"
+        "d": "First increase and then decrease"
       },
       "explanations": {
         "a": "The correct answer is decreases. In the divergent section of the Venturi meter, the cross-sectional area increases, causing the velocity of the fluid to decrease and the pressure to increase, according to Bernoulli's principle.",
@@ -109,7 +109,7 @@
         "a": "Equal",
         "b": "Higher",
         "c": "Lower",
-        "d": "None of these"
+        "d": "Either higher and lower"
       },
       "explanations": {
         "a": "The correct answer is higher. Venturi meters generally have a higher discharge coefficient compared to orifice meters, meaning they can handle larger flow rates with greater accuracy and less energy loss.",
@@ -125,8 +125,8 @@
       "answers": {
         "a": "Conservation of mass",
         "b": "Conservation of energy",
-        "c": "Both (a) and (b)",
-        "d": "None of these"
+        "c": "Conservation of Momentum",
+        "d": "Both (a) and (b)"
       },
       "explanations": {
         "a": "The correct answer is conservation of energy. Bernoulli's equation describes the conservation of mechanical energy (kinetic, potential, and pressure energy) in a flowing fluid and is fundamental in analyzing fluid dynamics. ",
