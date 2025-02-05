@@ -121,10 +121,10 @@
     {
       "question": "8. Angle of divergent part of Venturi meter is __________ than that of convergent part.",
       "answers": {
-        "a": "less",
-        "b": "greater",
-        "c": "equal",
-        "d": "Less or equal"
+        "a": "Less",
+        "b": "Greater",
+        "c": "Equal",
+        "d": "None of the above"
       },
       "explanations": {
         "a": "The correct answer is less. The angle of the divergent part is typically less than the convergent part to allow a gradual decrease in velocity and prevent flow separation and energy losses.",
