@@ -21,8 +21,8 @@ t = Time taken for rise of water level to height ‘R’ in seconds<br>
 Where, <br>
 H= difference of head in meters  =(h<sub>1</sub>-h<sub>2</sub> )×((s<sub>m</sub>)/s<sub>w</sub> -1)<br>
 or H  =(h<sub>1</sub>-h<sub>2</sub> )×12.6 or (h)×12.6<br>
-s<sub>m</sub>= Specific gravity of mercury =13600 <br>
-s<sub>w</sub> = specific gravity of water = 1000<br>
+s<sub>m</sub>= Specific gravity of mercury =13.6<br>
+s<sub>w</sub> = Specific gravity of water = 1<br>
 g = Acceleration due to gravity <br>
 d<sub>1</sub> = Inlet diameter in meters. <br>
 a<sub>1</sub> = Area at inlet<br>
