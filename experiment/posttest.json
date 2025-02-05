@@ -70,10 +70,10 @@
     {
       "question": "5. The coefficient of discharge of a venturi meter:",
       "answers": {
-        "a": "increase with increase in Reynolds number",
-        "b": "decrease with decrease in Reynolds number",
-        "c": "increase upto certain value of Reynold’s number and then becomes constant",
-        "d": "does not vary with Reynolds number"
+        "a": "Increase with the increase in Reynolds number",
+        "b": "Decrease with a decrease in Reynolds number",
+        "c": "Increase upto a certain value of Reynold’s number and then becomes constant",
+        "d": "Does not vary with Reynolds number"
       },
       "explanations": {
         "a": "The correct answer is increase up to a certain value of Reynold’s number and then becomes constant. The coefficient of discharge for a Venturi meter generally increases with the Reynolds number due to reduced viscous effects, and then stabilizes once the flow becomes fully turbulent.",
@@ -121,10 +121,10 @@
     {
       "question": "8. Angle of divergent part of Venturi meter is __________ than that of convergent part.",
       "answers": {
-        "a": "less",
-        "b": "greater",
-        "c": "equal",
-        "d": "Less or equal"
+        "a": "Less",
+        "b": "Greater",
+        "c": "Equal",
+        "d": "None of the above"
       },
       "explanations": {
         "a": "The correct answer is less. The angle of the divergent part is typically less than the convergent part to allow a gradual decrease in velocity and prevent flow separation and energy losses.",

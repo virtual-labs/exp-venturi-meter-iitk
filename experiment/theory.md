@@ -1,7 +1,7 @@
 <b>Introduction</b><br>
 <c><image src="images/image1.PNG"></c><br>
-A venture meter is a simple device used for measuring the flow rate of liquid flowing through a pipe. A venturi works on a simple principle that by reducing the cross - sectional area of the pipe, a pressure differential is created between the inlet and throat. This pressure differential is measured with the help of differential manometer which enables the determination of the discharge through the pipe. A Venturi meter consists of an inlet section followed by a convergent cone, a cylindrical throat, and gradually divergent cone.<br><br>
-<b>Components of a Venturi meter Test Rig</b><br>
+A venturi meter is a simple device used for measuring the flow rate of liquid flowing through a pipe. A venturi works on a simple principle that by reducing the cross - sectional area of the pipe, a pressure differential is created between the inlet and throat. This pressure differential is measured with the help of differential manometer which enables the determination of the discharge through the pipe. A Venturi meter consists of an inlet section followed by a convergent cone, a cylindrical throat, and gradually divergent cone.<br><br>
+<b><u>Components of a Venturi meter Test Rig</u></b><br>
 <c><image src="images/image2.PNG"></c><br>
 Fig. 2, shows a test rig or bench for Orifice meter whose each part is explained as follow: <br><br>
 1. <b>Flow Meter</u></b><br>
@@ -27,4 +27,4 @@ Sump is a water tank which stores adequate amount of water for circulation throu
 •	This pressure difference can be measured by applying a differential manometer between the inlet section and throat section or using two gauges on the inlet section and throat.<br>
 •	The pressure difference through the pipe is calculated after obtaining the flow rate.<br><br>
 <b>Bernoulli’s Equation for horizontally placed venturi and neglecting frictional losses:</b><br>
-<image src="images/image4.PNG">
+<image src="images/image5a.png">
