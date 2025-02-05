@@ -17,7 +17,7 @@ A = Area of the collecting tank in m² <br>
 R = Rise of water level taken in meters (say 0.1 m or 10 cm) <br>
 t = Time taken for rise of water level to height ‘R’ in seconds<br>
 2. Using difference in mercury level “h” calculate the theoretical discharge of venturi meter by using following expression: <br>
-<image src="images/imagep2.PNG"> <br>
+<image src="images/imagep2a.png"> <br>
 Where, <br>
 H= difference of head in meters  =(h<sub>1</sub>-h<sub>2</sub> )×((s<sub>m</sub>)/s<sub>w</sub> -1)<br>
 or H  =(h<sub>1</sub>-h<sub>2</sub> )×12.6 or (h)×12.6<br>
