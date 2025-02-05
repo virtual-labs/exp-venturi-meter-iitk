@@ -13,9 +13,9 @@ The following steps are to be followed to calculate the discharge coefficient of
 Note down the time required for the rice of 10 cm (i.e 0.1 m) water in the collecting tank by using stop watch. Calculate discharge using below formulae:<br>
 Discharge: The time taken collect some ‘R’ cm of water in the collecting tank<br>
 <image src="images/imagep1.PNG"><br>
-A = area of the collecting tank in m² <br>
-R = rise of water level taken in meters (say 0.1 m or 10 cm) <br>
-t = time taken for rise of water level to height ‘R’ in seconds<br>
+A = Area of the collecting tank in m² <br>
+R = Rise of water level taken in meters (say 0.1 m or 10 cm) <br>
+t = Time taken for rise of water level to height ‘R’ in seconds<br>
 2. Using difference in mercury level “h” calculate the theoretical discharge of venturi meter by using following expression: <br>
 <image src="images/imagep2.PNG"> <br>
 Where, <br>
