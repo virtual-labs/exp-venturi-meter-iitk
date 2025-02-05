@@ -35,7 +35,7 @@ C<sub>d</sub>= (Q<sub>act</sub>/Q<sub>Theoritical</sub>) <br>
 1. Area of the tank (A) = 0.12 m<sub>2</sub><br>
 2. Inlet diameter in meters (d_1)= 0.025 m<br>
 3. Throat diameter in meter (d_2) = 0.0125 m<br>
-<image src="images/imagep4.PNG"><br>
+<image src="images/imagep4.png"><br>
 
 
 
