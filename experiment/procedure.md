@@ -10,7 +10,7 @@ The following steps are to be followed to calculate the discharge coefficient of
 
 <b><u>Formulae –</u></b><br>
 1. Calculate Actual Discharge (Q<sub>act</sub>)<br>
-Note down the time required for the rice of 10 cm (i.e 0.1 m) water in the collecting tank by using stop watch. Calculate discharge using below formulae:<br>
+Note down the time required for the rise of 10 cm (i.e 0.1 m) water in the collecting tank by using stop watch. Calculate discharge using below formulae:<br>
 Discharge: The time taken collect some ‘R’ cm of water in the collecting tank<br>
 <image src="images/imagep1.PNG"><br>
 A = Area of the collecting tank in m² <br>
@@ -28,7 +28,7 @@ d<sub>1</sub> = Inlet diameter in meters. <br>
 a<sub>1</sub> = Area at inlet<br>
 d<sub>2</sub> = Throat diameter in meter<br>
 a<sub> 2</sub>= Area at throat<br>
-3. Calculate the coefficient of discharge of orifice meter:<br>
+3. Calculate the coefficient of discharge of Venturi meter:<br>
 C<sub>d</sub>= (Q<sub>act</sub>/Q<sub>Theoritical</sub>) <br>
 
 <b><u>Observations –</u></b><br>
