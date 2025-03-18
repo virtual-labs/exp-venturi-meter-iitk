@@ -1,7 +1,9 @@
 //Your JavaScript goes in here
 var enableButton=document.getElementById("enable");
+var highlightArrow = document.getElementById("highlight-arrow");
 var purzeButton=document.getElementById("purze")
 var valvePositioning = document.querySelector("#flow-rate-slider")
+var valvePositioningContainer = document.getElementById("valve-positioning-container")
 var svg=document.getElementById("Layer_1");
 var valvePositioningText = document.getElementById("valve-positioning-text");
 var manometerText = document.getElementById("manometer-text")
@@ -50,6 +52,7 @@ var svgContainer1 = document.getElementById("svg-container-1");
 var svgElements1 = document.querySelectorAll(".arrow-1");
 
 let shouldStop=false;
+var currentHighlightedElement = enableButton;
 
 function displayArrows() {
     svgElements1.forEach(function (element) {
@@ -70,7 +73,7 @@ function power(){
         document.getElementById("steps").innerHTML="Please wait until the water reaches the Flow Rate Valve."
         enableButton.textContent = "POWER OFF"
         count=1
-
+        highlightArrow.style.display = "none"
         waterFlow3()
     }else{
         if(!window.appData.powerFlag){
@@ -134,6 +137,7 @@ function waterFlow4(){
     animateX.beginElement();
 
     setTimeout(function() {
+        highlightArrowFn(valvePositioningContainer);
         document.getElementById("steps").innerHTML = "Choose a value on the valve positioning slider to regulate the water flow."
         valvePositioning.disabled = false
       }, 1500);
@@ -427,6 +431,7 @@ function waterFlow11(){
                 h6Text.textContent = "17.2"
                 h7Text.textContent = "17.9"
             }
+            highlightArrowFn(purzeButton);
             document.getElementById("steps").innerHTML = "Take note of the manometer readings, and then close the gate valve using the close gate valve button."
             purzeButton.disabled = false;
         }, 1000);
@@ -457,6 +462,7 @@ function fillTankFront(h){
 
         document.getElementById("steps").innerHTML = "Take note of the current time and current height, and then readjust the value of valve positioning to get further readings"
         valvePositioning.disabled=false;
+        if (valvePositioning.value == 1) highlightArrowFn(valvePositioningContainer);
         if(valvePositioning.value==2){
             document.getElementById("steps").innerHTML = "Take note of the current time on the timer."
         }
@@ -501,7 +507,7 @@ function waterTankSideFlow(y1,y2,h){
 
 function purzeAction(){
     purzeButton.disabled = true;
-
+    highlightArrow.style.display = "none"
     shouldStop=true
     w10.setAttribute("width","0")
     w11.setAttribute("height","0")
@@ -613,6 +619,7 @@ function updateValvePositioning()  {
     }else{
         waterFlow5() 
         valvePositioning.disabled = true;
+        highlightArrow.style.display = "none"
     }
 }
 
@@ -687,3 +694,23 @@ function arrowMovement2(y1,y2,y3,h){
     }
 
 }
+
+function highlightArrowFn(element) {
+    if (element) {
+      let rect = element.getBoundingClientRect();
+      highlightArrow.style.left = `${
+        rect.left + window.scrollX + rect.width / 2 - 25
+      }px`;
+      highlightArrow.style.top = `${rect.top + window.scrollY - 50}px`;
+      highlightArrow.style.display = "block";
+      currentHighlightedElement = element
+    }
+}
+  
+document.addEventListener("DOMContentLoaded", () =>
+  highlightArrowFn(enableButton)
+);
+
+window.addEventListener('resize', function() {
+    highlightArrowFn(currentHighlightedElement);
+  });
