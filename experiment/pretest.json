@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2. Minimum headless among flow meters is that of:",
+      "question": "2. Minimum head loss among flow meters is that of:",
       "answers": {
         "a": "Nozzle flow meter",
         "b": "Orifice meter",
@@ -61,12 +61,12 @@
         "d": "Vacuum pressure"
       },
       "explanations": {
-        "a": "The correct answer is absolute pressure. Venturi meters measure the absolute pressure difference between the inlet and the throat, which is necessary to calculate the flow rate accurately.",
+        "a": "",
         "b": "The correct answer is absolute pressure. Venturi meters measure the absolute pressure difference between the inlet and the throat, which is necessary to calculate the flow rate accurately.",
         "c": "The correct answer is absolute pressure. Venturi meters measure the absolute pressure difference between the inlet and the throat, which is necessary to calculate the flow rate accurately.",
         "d": "The correct answer is absolute pressure. Venturi meters measure the absolute pressure difference between the inlet and the throat, which is necessary to calculate the flow rate accurately."
       },
-      "correctAnswer": "b",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
@@ -75,7 +75,7 @@
         "a": "remains constant",
         "b": "decreases",
         "c": "increases",
-        "d": "First increase and then decrease"
+        "d": "first increases and then decreases"
       },
       "explanations": {
         "a": "The correct answer is decreases. In the divergent section of the Venturi meter, the cross-sectional area increases, causing the velocity of the fluid to decrease and the pressure to increase, according to Bernoulli's principle.",
