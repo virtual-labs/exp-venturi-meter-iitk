@@ -53,16 +53,16 @@
     {
       "question": "4. For Venturi meter, the coefficient of discharge range is: ",
       "answers": {
-        "a": "Greater than 0.90",
+        "a": "Greater than 0.98",
         "b": "Between 0.8 and 0.9",
         "c": "Between 0.7 and 0.8",
         "d": "Less than 0.7"
       },
       "explanations": {
-        "a": "The correct answer is greater than 0.90. Venturi meters have a high coefficient of discharge, typically greater than 0.90, due to their efficient design which minimizes energy losses and allows for accurate flow measurements.",
-        "b": "The correct answer is greater than 0.90. Venturi meters have a high coefficient of discharge, typically greater than 0.90, due to their efficient design which minimizes energy losses and allows for accurate flow measurements.",
-        "c": "The correct answer is greater than 0.90. Venturi meters have a high coefficient of discharge, typically greater than 0.90, due to their efficient design which minimizes energy losses and allows for accurate flow measurements.",
-        "d": "The correct answer is greater than 0.90. Venturi meters have a high coefficient of discharge, typically greater than 0.90, due to their efficient design which minimizes energy losses and allows for accurate flow measurements."
+        "a": "The correct answer is Greater than 0.98. Venturi meters have a high coefficient of discharge, typically Greater than 0.98, due to their efficient design which minimizes energy losses and allows for accurate flow measurements.",
+        "b": "The correct answer is Greater than 0.98. Venturi meters have a high coefficient of discharge, typically Greater than 0.98, due to their efficient design which minimizes energy losses and allows for accurate flow measurements.",
+        "c": "The correct answer is Greater than 0.98. Venturi meters have a high coefficient of discharge, typically Greater than 0.98, due to their efficient design which minimizes energy losses and allows for accurate flow measurements.",
+        "d": "The correct answer is Greater than 0.98. Venturi meters have a high coefficient of discharge, typically Greater than 0.98, due to their efficient design which minimizes energy losses and allows for accurate flow measurements."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
