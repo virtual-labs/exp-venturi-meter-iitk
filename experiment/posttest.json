@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. Relation of length of converging cone of ventri meter, where D is diameter of inlet and d is diameter of throat:",
+      "question": "1. Relation of length of converging cone of Venturi meter, where D is diameter of inlet and d is diameter of throat:",
       "answers": {
         "a": "2(D-d)",
         "b": "2Dd",
@@ -138,10 +138,10 @@
     {
       "question": "9. Discharge co-efficient (C<sub>d</sub>)  is defined as:",
       "answers": {
-        "a": "Q<sub>act</sub>- Q<sub>theroitical</sub>",
-        "b": "Q<sub>act</sub>+Q<sub>theroitical</sub>",
-        "c": "Q<sub>act</sub>/Q<sub>theroitical</sub>",
-        "d": "Q<sub>act</sub>*Q<sub>theroitical</sub>"
+        "a": "Q<sub>act</sub>- Q<sub>theoretical</sub>",
+        "b": "Q<sub>act</sub>+Q<sub>theoretical</sub>",
+        "c": "Q<sub>act</sub>/Q<sub>theoretical</sub>",
+        "d": "Q<sub>act</sub>*Q<sub>theoretical</sub>"
       },
       "explanations": {
         "a": "The correct answer is:- Q_act/Q_theroitical. The discharge coefficient is the ratio of the actual discharge to the theoretical discharge, indicating the efficiency of the flow meter in measuring the flow rate.",
