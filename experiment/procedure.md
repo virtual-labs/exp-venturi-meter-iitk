@@ -5,7 +5,7 @@ The following steps are to be followed to calculate the discharge coefficient of
 3. Check proper electrical connections to the switch, which is internally connected to the motor. First open the inlet gate valve of the apparatus. Adjust the control valve kept at the exit end of the apparatus to a desired flow rate and maintain the flow steadily. <br>
 4. The actual discharge is measured with the help of the measuring tank. The differential head produced by the flow meter can be found from the manometer for any flowrate. <br>
 5. Start the motor keeping the delivery valve closed. The water is allowed to flow through the selected pipe by selecting the appropriate ball valve. <br>
-6. By regulating the valve control the flow rate and select the corresponding pressure tapings (i.e. of Venturi meter). Make sure while taking readings, that the manometer is properly primed. Priming is the operation of filling the manometers upper part and the connecting pipes with water by venting the air from the pipes. <br>
+6. By regulating the valve control the flow rate and select the corresponding pressure tappings (i.e. of Venturi meter). Make sure while taking readings, that the manometer is properly primed. Priming is the operation of filling the manometers upper part and the connecting pipes with water by venting the air from the pipes. <br>
 7. Note down the difference of head “h” from the manometer scale, and time required for the rise of 10 cm (i.e. 0.01m) water in the collecting tank by using stop watch.<br>
 
 <b><u>Formulae –</u></b><br>
@@ -16,7 +16,7 @@ Discharge: The time taken collect some ‘R’ cm of water in the collecting tan
 A = Area of the collecting tank in m² <br>
 R = Rise of water level taken in meters (say 0.1 m or 10 cm) <br>
 t = Time taken for rise of water level to height ‘R’ in seconds<br>
-2. Using difference in mercury level “h” calculate the theoretical discharge of venturi meter by using following expression: <br>
+2. Using difference in mercury level “h” calculate the Qtheoretical of venturi meter by using following expression: <br>
 <image src="images/image2a.png"> <br>
 Where, <br>
 H= difference of head in meters  =(h<sub>1</sub>-h<sub>2</sub> )×((s<sub>m</sub>)/s<sub>w</sub> -1)<br>
