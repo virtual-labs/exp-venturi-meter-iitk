@@ -32,10 +32,10 @@ a<sub> 2</sub>= Area at throat<br>
 C<sub>d</sub>= (Q<sub>act</sub>/Q<sub>Theoritical</sub>) <br>
 
 <b><u>Observations –</u></b><br>
-1. Area of the tank (A) = 0.12 m<sub>2</sub><br>
-2. Inlet diameter in meters (d_1)= 0.025 m<br>
-3. Throat diameter in meter (d_2) = 0.0125 m<br>
-<image src="images/imagep4.png"><br>
+1. Area of the tank (A) = 0.12 m<sup>2</sup><br>
+2. Inlet diameter in meters (d<sub>1</sub>)= 0.025 m<br>
+3. Throat diameter in meter (d<sub>2</sub>) = 0.0125 m<br>
+<image src="images/image4.png"><br>
 
 
 
