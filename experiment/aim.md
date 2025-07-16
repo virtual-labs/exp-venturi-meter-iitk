@@ -1,1 +1,1 @@
-### To determine Coefficient of discharge of a Venturi meter
+To determine Coefficient of discharge of a Venturi meter
