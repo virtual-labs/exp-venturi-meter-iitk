@@ -61,7 +61,7 @@
         "d": "Vacuum pressure"
       },
       "explanations": {
-        "a": "",
+        "a": "The correct answer is absolute pressure. Venturi meters measure the absolute pressure difference between the inlet and the throat, which is necessary to calculate the flow rate accurately.",
         "b": "The correct answer is absolute pressure. Venturi meters measure the absolute pressure difference between the inlet and the throat, which is necessary to calculate the flow rate accurately.",
         "c": "The correct answer is absolute pressure. Venturi meters measure the absolute pressure difference between the inlet and the throat, which is necessary to calculate the flow rate accurately.",
         "d": "The correct answer is absolute pressure. Venturi meters measure the absolute pressure difference between the inlet and the throat, which is necessary to calculate the flow rate accurately."
