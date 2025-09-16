@@ -141,13 +141,13 @@
         "a": "Q<sub>act</sub> - Q<sub>theoretical</sub>",
         "b": "Q<sub>act</sub> + Q<sub>theoretical</sub>",
         "c": "Q<sub>act</sub> / Q<sub>theoretical</sub>",
-        "d": "Q<sub>act</sub> * Q<sub>theoretical</sub>"
+        "d": "Q<sub>act</sub> X Q<sub>theoretical</sub>"
       },
       "explanations": {
-        "a": "The correct answer is “Q_act/Q_theroitical”. The discharge coefficient is the ratio of the actual discharge to the theoretical discharge, indicating the efficiency of the flow meter in measuring the flow rate.",
-        "b": "The correct answer is “Q_act/Q_theroitical”. The discharge coefficient is the ratio of the actual discharge to the theoretical discharge, indicating the efficiency of the flow meter in measuring the flow rate.",
-        "c": "The correct answer is “Q_act/Q_theroitical”. The discharge coefficient is the ratio of the actual discharge to the theoretical discharge, indicating the efficiency of the flow meter in measuring the flow rate.",
-        "d": "The correct answer is “Q_act/Q_theroitical”. The discharge coefficient is the ratio of the actual discharge to the theoretical discharge, indicating the efficiency of the flow meter in measuring the flow rate."
+        "a": "The correct answer is “Q<sub>act</sub> / Q<sub>theoretical</sub>”. The discharge coefficient is the ratio of the actual discharge to the theoretical discharge, indicating the efficiency of the flow meter in measuring the flow rate.",
+        "b": "The correct answer is “Q<sub>act</sub> / Q<sub>theoretical</sub>”. The discharge coefficient is the ratio of the actual discharge to the theoretical discharge, indicating the efficiency of the flow meter in measuring the flow rate.",
+        "c": "The correct answer is “Q<sub>act</sub> / Q<sub>theoretical</sub>”. The discharge coefficient is the ratio of the actual discharge to the theoretical discharge, indicating the efficiency of the flow meter in measuring the flow rate.",
+        "d": "The correct answer is “Q<sub>act</sub> / Q<sub>theoretical</sub>”. The discharge coefficient is the ratio of the actual discharge to the theoretical discharge, indicating the efficiency of the flow meter in measuring the flow rate."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
